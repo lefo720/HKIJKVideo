@@ -1,0 +1,25 @@
+{
+    "name": "BeJson",
+    "url": "http://www.bejson.com",
+    "page": "<null>",
+    isNonProfit: "<null>",
+    "address": {
+        "street": "科技园路.",
+        "city": "<null>",
+        "country": "中国"
+    },
+    "links": [
+        {
+            "name": "<null>",
+            "url": "http://www.google.com"
+        },
+        {
+            "name": "<null>",
+            "url": "http://www.baidu.com"
+        },
+        {
+            "name": "<null>",
+            "url": "<null>"
+        }
+    ]
+}
