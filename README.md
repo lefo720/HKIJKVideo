@@ -33,15 +33,15 @@
 	
 
 ##使用说明:
-<li>1.项目配置了,两种播放器:IJKPlayer和AVPlayer, 分别对应LEAVPlayerManager和LEIJKVideoManager, 如果只需要一种, 只需要将另外一个类删除.无需改动代码
+<li>1.项目配置了,两种播放器:IJKPlayer和AVPlayer, 分别对应LEAVPlayerManager和LEIJKVideoManager两个类, 如果只需要一种, 只需要将另外一个类删除.无需改动代码
 <li>2.如果想添加自己的manager, 需要实现LEPlayerProtocal协议, 并实现协议中的函数,添加初始化manager配置即可
 <li>3.播放器的回调,都在LEPlayerDelegate.h中, 使用时候需要当前viewcontroller实现该协议
 
-住:部分类是从其他项目而来,切spec没有配置Github, 使用时候直接下载源码即可, 鄙人只是菜鸟, 大神勿喷,路过给个Star
+注:部分类是从其他项目而来,切spec没有配置Github, 使用时候直接下载源码即可, 鄙人只是菜鸟, 大神勿喷,路过给个Star
 
 ## Author
 
-lefo720, lilei1@gaosiedu.com
+lefo720
 
 ## License
 
